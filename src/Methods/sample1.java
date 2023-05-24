@@ -13,7 +13,10 @@ public class sample1
 		m2();
 		m2();
 		
-		System.out.println("hello");		
+		System.out.println("hello");	
+		System.out.println("hello");
+		System.out.println("hello");
+		
 	}
 	
 	//static --> regular method
